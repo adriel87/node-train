@@ -1,0 +1,19 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "proyecto to practice basic things of node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriel87/node-train.git"
+  },
+  "author": "adriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriel87/node-train/issues"
+  },
+  "homepage": "https://github.com/adriel87/node-train#readme"
+}
