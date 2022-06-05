@@ -14,4 +14,3 @@ fs.readFile(path,{encoding:'utf-8'})
     console.error(err)
 })
 // .finally( console.log('fin') )
-
